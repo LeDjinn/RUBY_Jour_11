@@ -1,2 +1,2 @@
-# ruby-exercices-day-11-55-scrapping
+# Exercices_scraping_avec_Ruby
 # RUBY_Jour_11
